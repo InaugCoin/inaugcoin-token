@@ -1,0 +1,13 @@
+{
+  "name": "Inauguration Token",
+  "symbol": "INAUG",
+  "decimals": 9,
+  "address": "AuipruP2SuwqKLeyGnNqReSKH1AoRYPgNifcrXWbUNNE",
+  "logoURI": "https://raw.githubusercontent.com/InaugCoin/inaugcoin-token/main/assets/mainnet/AuipruP2SuwqKLeyGnNqReSKH1AoRYPgNifcrXWbUNNE/logo.png",
+  "tags": ["utility-token", "community", "web3"],
+  "extensions": {
+    "website": "https://www.inaugcoin.com",
+    "twitter": "https://twitter.com/inaugcoin",
+    "whitepaper": "https://www.inaugcoin.com/whitepaper"
+  }
+}
